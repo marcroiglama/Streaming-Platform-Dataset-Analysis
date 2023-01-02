@@ -1,7 +1,7 @@
 ## Streaming-Platform-Dataset-Analysis
 
 This project aims to analyze data from a streaming platform to get insights and understand how the app is performing in
-terms on visualizations, user view time and benefits. The results are available on the following [dashboard](https://datastudio.google.com/reporting/697d485d-e35f-43f5-95e1-14a56774df48).
+terms on film views, user view time and generated benefits. The results are available on the following [dashboard](https://datastudio.google.com/reporting/697d485d-e35f-43f5-95e1-14a56774df48).
 A extended explanation is available in `Streaming Platform Dataset Analysis.pdf`.
 
 The project has 3 main levels:
