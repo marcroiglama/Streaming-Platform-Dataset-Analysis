@@ -1,1 +1,13 @@
-<iframe width="600" height="338" src="https://datastudio.google.com/embed/reporting/697d485d-e35f-43f5-95e1-14a56774df48/page/p_fclkp10e1c" frameborder="0" style="border:0" allowfullscreen></iframe>
+## Streaming-Platform-Dataset-Analysis
+
+This project aims to analyze data from a streaming platform to get insights and understand how the app is performing in
+terms on visualizations, user view time and benefits.
+
+The project has 3 main levels:
+
+* Storage Level: PostgreSQL database.
+* Processing Level: Python Jupyter Notebook to create a clean excel to be visualized.
+* Visualization Level: Looker Studio Dashboard.
+
+
+[dashboard] (https://datastudio.google.com/reporting/697d485d-e35f-43f5-95e1-14a56774df48)
